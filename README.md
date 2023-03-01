@@ -1,2 +1,1 @@
-# segment-editor
-QML playground
+# coa-qml-sandbox

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SegmentGridView.qml</file>
+        <file>SegmentListView.qml</file>
+        <file>SegmentTile.qml</file>
+    </qresource>
+</RCC>
